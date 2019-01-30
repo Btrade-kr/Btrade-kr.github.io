@@ -487,6 +487,28 @@ code {
   text-decoration: underline;
 }
 
+#sidebar input {
+  background: #111;
+  border: 0;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.2);
+  color: #ddd;
+  margin-bottom: 20px;
+  padding: 5px 10px;
+}
+#sidebar input:active,
+#sidebar input:focus {
+  border-color: #ccc;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: inset 0 1px 5px rgba(0, 0, 0, 0.1);
+  outline: none;
+}
+
 /* References */
 #content {
   padding: 20px;
