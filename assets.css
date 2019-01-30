@@ -251,7 +251,7 @@ figure {
  */
 
 fieldset {
-    border: 1px solid #c60b0b;
+    border: 1px solid #c0c0c0;
     margin: 0 2px;
     padding: 0.35em 0.625em 0.75em;
 }
@@ -410,7 +410,7 @@ body {
 body,
 input,
 textarea {
-  color: #c60b0b;
+  color: #191919;
   font: 14px/140% 'Open Sans', Arial, sans-serif;
 }
 
@@ -439,7 +439,7 @@ code {
 
 /* SIDEBAR */
 #sidebar {
-  background: #191919;
+  background: #db2323;
   color: #fff;
   float: left;  
   height: 100%;
