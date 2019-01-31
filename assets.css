@@ -419,7 +419,7 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #29aeef;
+  color: #ffffff;
   text-decoration: underline;
 }
 
@@ -485,6 +485,7 @@ code {
   border-color: #17b391;
   background: white;
   width: 198px;
+  text-align: left;
 }
 
 #sidebar div div a {
