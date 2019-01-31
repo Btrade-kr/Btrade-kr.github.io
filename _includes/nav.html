@@ -1,7 +1,12 @@
 <h1>{{ site.title }}</h1>
 
 <div id='links'>
-  {% for post in site.posts %}
+	<div>
+		<button>
+			<a href='#/response-status-codes'>API Info</a>'
+		</button>
+	</div>
+  <!-- {% for post in site.posts %}
     {% if post.category == null %}
     <div>
     	<button>
@@ -9,7 +14,7 @@
     	</button>
     </div><br/>
     {% endif %}
-  {% endfor %}
+  {% endfor %} -->
   <!-- {% for category in site.categories %}
 </div>
   <li><h2>{{ category | first }}</h2>
