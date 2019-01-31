@@ -646,3 +646,13 @@ code {
   	background: white;
   	width: 198px;
 }
+
+#apiDocument {
+	display: block;
+ 	padding: 10px 10px 10px;
+  	border-style: solid;
+  	border-width: thin;
+  	border-color: #17b391;
+  	background: white;
+  	width: 198px;
+}
