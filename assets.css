@@ -490,6 +490,7 @@ code {
 #sidebar div div a {
   color: #000;
   display: block;
+  text-align: left;
 }
 #sidebar ul li a:active,
 #sidebar ul li a.active {
