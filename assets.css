@@ -480,7 +480,7 @@ code {
 #sidebar div div a {
   color: #000;
   display: block;
-  padding: 0 0 15px;
+  padding: 10px 10px 10px;
   border-style: solid;
   border-width: thin;
   
