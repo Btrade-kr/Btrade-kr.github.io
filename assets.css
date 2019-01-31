@@ -637,6 +637,10 @@ code {
 	font-size: 20px;
 }
 
+#apiBtn {
+	vertical-align: middle;
+}
+
 #apiKey {
 	display: block;
  	padding: 10px 10px 10px;
