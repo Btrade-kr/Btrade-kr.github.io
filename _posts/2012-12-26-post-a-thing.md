@@ -1,5 +1,5 @@
 ---
-title: 'Post a thing'
+title: 'API 공지'
 
 layout: nil
 ---
