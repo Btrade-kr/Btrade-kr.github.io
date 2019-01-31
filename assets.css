@@ -649,7 +649,9 @@ code {
   	border-style: solid;
   	border-width: thin;
   	border-color: #17b391;
-  	background: white;
+  	background: #17b391;
+  	font-size: 17px;
+  	color: white;
   	width: 198px;
   	float: left;
   	margin: 0 10px 0;
@@ -661,7 +663,9 @@ code {
   	border-style: solid;
   	border-width: thin;
   	border-color: #17b391;
-  	background: white;
+  	background: #17b391;
+  	font-size: 17px;
+  	color: white;
   	width: 198px;
   	float: left;
   	margin: 0 10px 0;
