@@ -1,6 +1,4 @@
 ---
-category: Stuff
-path: '/stuff'
 title: 'Post a thing'
 type: 'POST'
 
