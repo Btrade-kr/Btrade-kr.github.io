@@ -3,7 +3,7 @@
 <div id='links'>
   {% for post in site.posts %}
     {% if post.category == null %}
-    	<text><a href='#{{ post.url }}'>{{ post.title }}</a></text>
+    	<textarea><a href='#{{ post.url }}'>{{ post.title }}</a></textarea>
     {% endif %}
   {% endfor %}
   {% for category in site.categories %}
