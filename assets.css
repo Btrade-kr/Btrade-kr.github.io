@@ -638,7 +638,9 @@ code {
 }
 
 #apiBtn {
-	vertical-align: middle;
+	position: relative;
+	display: inline-block;
+	margin: 10px 130px 10px;
 }
 
 #apiKey {
@@ -650,6 +652,7 @@ code {
   	background: white;
   	width: 198px;
   	float: left;
+  	margin: 0 10px 0;
 }
 
 #apiDocument {
@@ -661,4 +664,5 @@ code {
   	background: white;
   	width: 198px;
   	float: left;
+  	margin: 0 10px 0;
 }
