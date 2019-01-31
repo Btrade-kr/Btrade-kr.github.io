@@ -501,7 +501,7 @@ code {
 #content {
   padding: 20px;
   padding-left: 260px;
-  max-width: 700px;
+  max-width: 780px;
 }
 
 #content .control {
@@ -516,13 +516,14 @@ code {
 }
 
 #content article > a {
-  background: #333;
-  border-radius: 2px;
-  -moz-border-radius: 2px;
-  -webkit-border-radius: 2px;
+  background: white;
   cursor: pointer;
   display: block;
   padding: 15px;
+  border-style: solid hidden hidden;
+  border-color:	black;
+  border-width: thin;
+  margin: 0 0 5px;
 }
 #content article > a:hover {
   background: #222;
@@ -530,9 +531,9 @@ code {
 }
 
 #content a h2 {
-  color: #fff;
-  font-size: 18px;
-  font-weight: normal;
+  color: #000;
+  font-size: 25px;
+  font-weight: bold;
   margin: 0;
 }
 
@@ -630,17 +631,19 @@ code {
 	font-weight: bold;
 	color: #191919;
 	font-size: 24px;
+	margin: 0 40px 0;
 }
 
 #devCenterDetail {
 	color: #191919;
 	font-size: 20px;
+	margin: 0 40px 30px
 }
 
 #apiBtn {
 	position: relative;
 	display: inline-block;
-	margin: 10px 130px 10px;
+	margin: 10px 165px 15px;
 }
 
 #apiKey {
