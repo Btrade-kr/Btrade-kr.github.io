@@ -451,15 +451,16 @@ code {
 
 #sidebar h1 {
   background: #e8eaed;
-  font-size: 14px;
+  color: #000;
+  font-size: 24px;
   margin: 0;
   padding: 20px;
   text-transform: uppercase;
 }
 
 #sidebar h2 {
-  color: #000;
-  font-size: 20px;
+  color: #888;
+  font-size: 14px;
   margin: 0;
 }
 
