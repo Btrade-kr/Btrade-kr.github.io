@@ -3,9 +3,11 @@
 <div id='links'>
   {% for post in site.posts %}
     {% if post.category == null %}
+    <div>
     	<button>
     		<a href='#{{ post.url }}'>{{ post.title }}</a>
     	</button>
+    </div>
     {% endif %}
   {% endfor %}
   {% for category in site.categories %}
