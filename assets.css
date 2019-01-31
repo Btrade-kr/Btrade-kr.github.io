@@ -645,6 +645,7 @@ code {
   	border-color: #17b391;
   	background: white;
   	width: 198px;
+  	float: left;
 }
 
 #apiDocument {
@@ -655,4 +656,5 @@ code {
   	border-color: #17b391;
   	background: white;
   	width: 198px;
+  	float: left;
 }
