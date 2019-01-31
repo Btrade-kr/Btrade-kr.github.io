@@ -1,6 +1,5 @@
 ---
 title: 'Post a thing'
-type: 'POST'
 
 layout: nil
 ---
