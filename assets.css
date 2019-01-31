@@ -419,8 +419,8 @@ a {
   text-decoration: none;
 }
 a:hover {
-  color: #ffffff;
-  text-decoration: underline;
+  color: white;
+  text-decoration: none;
 }
 
 h1,
@@ -527,7 +527,7 @@ code {
   margin: 0 0 5px;
 }
 #content article > a:hover {
-  background: #222;
+  background: #fff;
   text-decoration: none;
 }
 
