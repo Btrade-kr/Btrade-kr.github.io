@@ -9691,9 +9691,9 @@ $('#sidebar a').each(function () {
     });
 
     // If we find a link in the body with similar anchor, add the same behavior
-    $('.body a[href="#'+ id +'"]').click(function (e) {
-        $('#sidebar a[href="#'+ id +'"]').trigger('click');
-    });
+//    $('.body a[href="#'+ id +'"]').click(function (e) {
+//        $('#sidebar a[href="#'+ id +'"]').trigger('click');
+//    });
 });
 
 // Hide all/Show all links
