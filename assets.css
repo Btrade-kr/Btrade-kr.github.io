@@ -481,6 +481,9 @@ code {
   color: #000;
   display: block;
   padding: 0 0 15px;
+  border-style: solid;
+  border-width: thin;
+  
 }
 #sidebar ul li a:active,
 #sidebar ul li a.active {
