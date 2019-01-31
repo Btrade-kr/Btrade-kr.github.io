@@ -1,8 +1,5 @@
 ---
-category: Stuff
-path: '/stuff/:id'
-title: 'Update a thing'
-type: 'PUT'
+title: 'API 사용 및 제휴 문의'
 
 layout: nil
 ---
